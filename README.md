@@ -6,7 +6,7 @@ This is a simple, elegant landing page project showcasing the beauty of **Switze
 
 ## 🌍 Live Preview
 
-> _Coming soon — link to GitHub Pages or Netlify site here_
+> https://exploreswitzerland.netlify.app/
 
 ---
 
